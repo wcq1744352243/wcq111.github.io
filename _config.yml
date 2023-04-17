@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "王常青"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "王常青"
+  avatar           : "thread_144399171452357_20200929200033_s_37771_w_562_h_504_15567.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
