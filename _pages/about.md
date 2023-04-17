@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-毕业于中国石油大学(北京)[academicpages template](https://www.cup.edu.cn)数学与应用数学专业，现在就读于上海大学[academicpages template](https://www.shu.edu.cn)计算机科学与技术专业，师从王昊博士。
+毕业于中国石油大学(北京)(https://www.cup.edu.cn)数学与应用数学专业，现在就读于上海大学(https://www.shu.edu.cn)计算机科学与技术专业，师从王昊博士。
 
 A data-driven personal website
 ======
